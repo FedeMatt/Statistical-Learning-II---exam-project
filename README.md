@@ -6,6 +6,6 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 Exploratory Data Analysis and several statistical learning techniques are implemented using R. 
 
-The slides of the project's presentation are also attached, it was submitted on June 6, 2019
+The slides of the project's presentation are also attached, it was submitted on June 6, 2019.
 
 Dataset and other info can be found [here](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
