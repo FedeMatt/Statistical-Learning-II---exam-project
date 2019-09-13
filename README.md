@@ -8,4 +8,4 @@ Exploratory Data Analysis and several statistical learning techniques are implem
 
 The slides of the project's presentation are also attached, it was submitted on June 6, 2019
 
-Dataset: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+Dataset and other info can be found [here].(https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
