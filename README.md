@@ -2,8 +2,8 @@
 https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. 
-The classification goal is to predict if the client will subscribe a term deposit (variable y).
+The classification goal is to predict if the client will subscribe a term deposit.
 
-Several methods are implemented using R. 
+Exploratory Data Analysis and several statistical learning techniques are implemented using R. 
 
-The slides of the project's presentation are also attached, it was completed on June 6, 2019
+The slides of the project's presentation are also attached, it was submitted on June 6, 2019
