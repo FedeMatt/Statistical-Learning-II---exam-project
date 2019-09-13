@@ -6,4 +6,4 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 Several moethods are implemented using R. 
 
-The slides of the project's presentation are also attached.
+The slides of the project's presentation are also attached, it was completed on June 6, 2019
