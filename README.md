@@ -1,4 +1,4 @@
-# Statistical Learning II, exam project
+# Statistical Learning II - exam project
 
 
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. 
