@@ -2,7 +2,7 @@
 
 
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. 
-The classification goal is to predict whether the client will subscribe a term deposit or not.
+The classification goal is to predict whether a client will subscribe a term deposit or not.
 
 Exploratory Data Analysis and several statistical learning techniques are implemented using R. 
 
